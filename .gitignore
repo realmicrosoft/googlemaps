@@ -14,3 +14,6 @@ Cargo.lock
 
 /target
 /Cargo.lock
+
+# stop trying to add my jetbrains configs
+/.idea
