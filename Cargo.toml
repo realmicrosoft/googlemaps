@@ -1,0 +1,10 @@
+[package]
+name = "googlemaps"
+description = "small helper library for detecting things about your system."
+version = "0.1.0"
+edition = "2021"
+authors = ["Real Microsoft", "husky (fekhesk)"]
+homepage = "https://github.com/realmicrosoft/googlemaps"
+repository = "https://github.com/realmicrosoft/googlemaps"
+license = "Apache-2.0"
+readme = "README.md"
